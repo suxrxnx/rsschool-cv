@@ -1,5 +1,5 @@
 ## ***Curriculum Vitae***
-![cv](C:\Users\sukonkina.av\Desktop\cv)
+![cv png](https://github.com/suxrxnx/rsschool-cv/assets/149577574/97257576-f515-4bf1-acb4-ad2733367fbc)
 ### Full Name: Sukonkina Arina
 Date of birth: 06.05.1999  
 Phone: +79991843137  
@@ -26,14 +26,10 @@ E-mail: arina.hall.yoshida@gmail.com
 - Spanish, A2
 
 ### Work Experience: 
-1. ENG-RU Translator, 
+1. ENG-RU Translator, March 2017 - June 2018.
 1. Call-center worker, April 2020 - June 2021.  
 1. Ecologist, Specautobasa, July 2021 - November 2021.  
 1. Ecologist, Government, January 2022 - Present.  
-- Develop and implement conservation plans and measures
-- Conducted laboratory analysis and data entry
-- Participated in community-based conservation activities
-- Conducted research and assisted in the preparation of technical reports
 
 ### Professional Memberships:
 - Member, Ecological Society of Russia
